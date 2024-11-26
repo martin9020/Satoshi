@@ -1,23 +1,28 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
-  "latestRevision": "2024-26-11T19:36:00.912Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2024-11-26T21:50:29.107Z",
   "registryIdentity": {
-    "name": "The Real ₿Coin",
-    "description": "self-published bcmr for DogeCash"
+    "name": "bcmr for The Real ₿Coin",
+    "description": "self-published bcmr for The Real ₿Coin"
   },
   "identities": {
-    "8473d94f604de351cdee3030f6c354d36b257861ad8e95bbc0a06fbab2a2f9cf": {
-      "2023-05-15T14:14:03.145Z": {
-        "name": "₿Coin",
-        "description": "Lets overtake the ₿Coin Price",
+    "f7a76e08f7e8e2365469b2b9a24d08635d9702c4f3d69874b2b11880cfcc1413": {
+      "2024-11-26T21:50:29.107Z": {
+        "name": "The Real ₿Coin",
+        "description": "The Real ₿Coin",
         "token": {
-          "category": "8473d94f604de351cdee3030f6c354d36b257861ad8e95bbc0a06fbab2a2f9cf",
+          "category": "f7a76e08f7e8e2365469b2b9a24d08635d9702c4f3d69874b2b11880cfcc1413",
           "symbol": "₿",
           "decimals": 6
         },
         "uris": {
-          "icon": "https://github.com/martin9020/Satoshi/blob/main/Bitcoin.png"
+          "icon": "https://github.com/martin9020/Satoshi/blob/main/Bitcoin.png",
+          "web": ""
         }
       }
     }
